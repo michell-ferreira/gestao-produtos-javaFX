@@ -9,9 +9,10 @@ Projeto de uma aplicação desktop desenvolvida em JavaFX integrada a um banco d
 
 ---
 
-## 📸 Demonstração da Interface
+## 📸 Demonstração em vídeo
 
-*(Adicione aqui uma imagem ou GIF da sua aplicação rodando)*
+<a href="https://youtu.be/ZZXqkXe_7kA">Assista a uma demonstração da aplicação em funcionamento</a>
+
 ---
 
 ## 📜 Sobre o Projeto
