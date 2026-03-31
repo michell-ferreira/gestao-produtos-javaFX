@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Language-Java_21-orange)
 ![JavaFX](https://img.shields.io/badge/GUI-JavaFX_21-blue)
 ![Database](https://img.shields.io/badge/Database-SQLite-lightgrey)
-![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-green)
+![Status](https://img.shields.io/badge/Status-Concluído-green)
 
 Projeto de uma aplicação desktop desenvolvida em JavaFX integrada a um banco de dados SQLite. Criada para aplicar e consolidar conceitos fundamentais de Java, persistência de dados (CRUD) com a arquitetura DAO e interfaces gráficas reativas.
 
