@@ -52,7 +52,7 @@ Certifique-se de ter o **Java JDK 21** e o **Maven** instalados na sua máquina.
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/michell-ferreira/gestao-produtos-java.git](https://github.com/michell-ferreira/gestao-produtos-java.git)
+git clone https://github.com/michell-ferreira/gestao-produtos-javaFX
 
 # 2. Acesse a pasta do projeto
 cd gestao-produtos-java
